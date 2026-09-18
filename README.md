@@ -22,7 +22,7 @@ L'objectif principal de ce projet est de réaliser une **Analyse Exploratoire de
 
 - **Taille minimale requise :** 1 000 lignes × 10 colonnes.
 - **Type de problème :** Classification / Régression.
-- **Source :** [Kaggle Datasets](https://www.kaggle.com/datasets).
+- **Source :** [Kaggle Datasets](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
 
 ---
 
@@ -76,7 +76,7 @@ L'objectif principal de ce projet est de réaliser une **Analyse Exploratoire de
 
 ---
 
-## 📢 Évaluation et Présentation
+## Évaluation et Présentation
 
 L'évaluation prend la forme d'une présentation orale synthétique (10 minutes de présentation + 10 minutes de Q/R) mettant l'accent sur :
 - Les insights tirés de l'analyse exploratoire.
