@@ -1,0 +1,75 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+
+# Distribution et outils de build
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg
+*.egg-info/
+pip-wheel-metadata/
+share/python-wheels/
+MANIFEST
+
+# Tests, couverture et outils de qualite
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.jupyter/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Donnees et modeles generes
+data/raw/
+data/processed/
+models/
+checkpoints/
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Systeme d'exploitation
+.DS_Store
+Thumbs.db
+desktop.ini
