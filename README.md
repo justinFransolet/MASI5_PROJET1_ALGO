@@ -23,20 +23,7 @@ L'objectif principal de ce projet est de réaliser une **Analyse Exploratoire de
 - **Taille minimale requise :** 1 000 lignes × 10 colonnes.
 - **Type de problème :** Classification / Régression.
 - **Source :** [Kaggle Datasets](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
-
----
-
-## Structure du Dépôt
-
-```text
-.
-├── data/                  # Jeux de données bruts et/ou nettoyés
-├── notebooks/             # Notebooks Jupyter (EDA, entraînement, évaluation)
-├── src/                   # Scripts Python réutilisables (preprocessing, modèle)
-├── models/                # Modèles sauvegardés (.pkl, .joblib)
-├── README.md              # Fiche descriptive du projet
-└── requirements.txt       # Dépendances et bibliothèques nécessaires
-```
+- [Parameter description](https://github.com/justinFransolet/MASI5_PROJET1_ALGO/tree/clement/data#parameter-description)
 
 ---
 
