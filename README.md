@@ -1,7 +1,7 @@
 # Projet Machine Learning : Arbres de Décision & Analyse Exploratoire
 
 ![Dataset Cover](assets/dataset-cover.png)
-Ce projet s'inscrit dans le cadre du cours d'**Algorithmes Avancés de Machine Learning** (Master 2 ASI / Ingénieur Industriel - Année 2026-2027).
+Ce projet s'inscrit dans le cadre du cours d'**Algorithmes Avancés de Machine Learning** (MASI 2 / Ingénieur Industriel - Année 2026-2027).
 
 ---
 
