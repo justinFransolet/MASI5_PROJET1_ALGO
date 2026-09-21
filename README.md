@@ -23,6 +23,7 @@ L'objectif principal de ce projet est de réaliser une **Analyse Exploratoire de
 - **Taille minimale requise :** 1 000 lignes × 10 colonnes.
 - **Type de problème :** Classification / Régression.
 - **Source :** [Kaggle Datasets](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
+- [Parameter description](https://github.com/justinFransolet/MASI5_PROJET1_ALGO/tree/clement/data#parameter-description)
 
 ---
 
