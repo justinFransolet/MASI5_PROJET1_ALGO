@@ -27,20 +27,6 @@ L'objectif principal de ce projet est de réaliser une **Analyse Exploratoire de
 
 ---
 
-## Structure du Dépôt
-
-```text
-.
-├── data/                  # Jeux de données bruts et/ou nettoyés
-├── notebooks/             # Notebooks Jupyter (EDA, entraînement, évaluation)
-├── src/                   # Scripts Python réutilisables (preprocessing, modèle)
-├── models/                # Modèles sauvegardés (.pkl, .joblib)
-├── README.md              # Fiche descriptive du projet
-└── requirements.txt       # Dépendances et bibliothèques nécessaires
-```
-
----
-
 ## Installation et Utilisation
 
 1. **Cloner le dépôt :**
